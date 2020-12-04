@@ -2796,7 +2796,7 @@
     "town": "na",
     "county": "001 - Kent County",
     "intersection": "SR1/KOREAN WAR VET MEM",
-    "structure": null,
+    "structure": "12000000",
     "latlong": "39.20535,-75.54297"
   },
   {
@@ -5606,7 +5606,7 @@
     "town": "na",
     "county": "003 - New Castle County",
     "intersection": "SECOND ST & ADAMS ST",
-    "structure": null,
+    "structure": "1200001",
     "latlong": "39.74173,-75.56072"
   },
   {
@@ -7356,7 +7356,7 @@
     "town": "na",
     "county": "003 - New Castle County",
     "intersection": "RED CLAY CREEK",
-    "structure": null,
+    "structure": "1200002",
     "latlong": "39.71512,-75.64014"
   },
   {
@@ -7406,7 +7406,7 @@
     "town": "na",
     "county": "003 - New Castle County",
     "intersection": "CALF RUN",
-    "structure": null,
+    "structure": "1200003",
     "latlong": "39.71352,-75.64407"
   },
   {
